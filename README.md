@@ -110,8 +110,14 @@ python main.py
 安装包输出位置：
 
 ```text
-installer\output\NTE_Drive_Calc_Setup_1.0.0.exe
+installer\output\NTE_Drive_Calc_Setup_1.0.1.exe
 ```
+
+## TODO
+
+### 仓库功能
+
+计划增加库存仓库页面，用于筛选和读取库存里的所有驱动、卡带，并标注哪些驱动、卡带已经被配装锁定。点击某个驱动或卡带后，可以直接调用鉴定功能，对该装备进行角色匹配评分。后续还会支持两个卡带或两个驱动的鉴定对比。
 
 ## 数据文件
 
@@ -122,4 +128,3 @@ installer\output\NTE_Drive_Calc_Setup_1.0.0.exe
 遇到识别错误、安装问题或配装结果异常，可以在 GitHub Issues 提交截图、日志和复现步骤：
 
 <https://github.com/hxwd94666/NTE-Drive-Calc/issues>
-
